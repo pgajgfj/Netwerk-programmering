@@ -1,0 +1,24 @@
+﻿<Window x:Class="StreetClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Пошук вулиць за індексом" Height="300" Width="400"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBlock Text="Введіть поштовий індекс:" 
+                   HorizontalAlignment="Left" VerticalAlignment="Top" 
+                   Margin="20,20,0,0" FontSize="14"/>
+
+        <TextBox Name="txtZipCode" Width="200" Height="30"
+                 HorizontalAlignment="Left" VerticalAlignment="Top" 
+                 Margin="20,50,0,0" FontSize="14"/>
+
+        <Button Name="btnSearch" Content="🔍 Знайти" Width="100" Height="30"
+                HorizontalAlignment="Left" VerticalAlignment="Top" 
+                Margin="240,50,0,0" FontSize="14"
+                Click="btnSearch_Click"/>
+
+        <ListBox Name="lstStreets" Width="320" Height="140"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Margin="20,100,0,0" FontSize="14"/>
+    </Grid>
+</Window>

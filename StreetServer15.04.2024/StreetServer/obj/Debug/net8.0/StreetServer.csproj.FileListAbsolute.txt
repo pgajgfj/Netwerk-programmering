@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\StreetServer\StreetServer\bin\Debug\net8.0\StreetServer.exe
+C:\Users\user\source\repos\StreetServer\StreetServer\bin\Debug\net8.0\StreetServer.deps.json
+C:\Users\user\source\repos\StreetServer\StreetServer\bin\Debug\net8.0\StreetServer.runtimeconfig.json
+C:\Users\user\source\repos\StreetServer\StreetServer\bin\Debug\net8.0\StreetServer.dll
+C:\Users\user\source\repos\StreetServer\StreetServer\bin\Debug\net8.0\StreetServer.pdb
+C:\Users\user\source\repos\StreetServer\StreetServer\obj\Debug\net8.0\StreetServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\StreetServer\StreetServer\obj\Debug\net8.0\StreetServer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StreetServer\StreetServer\obj\Debug\net8.0\StreetServer.AssemblyInfo.cs
+C:\Users\user\source\repos\StreetServer\StreetServer\obj\Debug\net8.0\StreetServer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StreetServer\StreetServer\obj\Debug\net8.0\StreetServer.dll
+C:\Users\user\source\repos\StreetServer\StreetServer\obj\Debug\net8.0\refint\StreetServer.dll
+C:\Users\user\source\repos\StreetServer\StreetServer\obj\Debug\net8.0\StreetServer.pdb
+C:\Users\user\source\repos\StreetServer\StreetServer\obj\Debug\net8.0\StreetServer.genruntimeconfig.cache
+C:\Users\user\source\repos\StreetServer\StreetServer\obj\Debug\net8.0\ref\StreetServer.dll
