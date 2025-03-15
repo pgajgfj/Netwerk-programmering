@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MailProtocol2604\MailProtocol2604\bin\Debug\net8.0\MailProtocol2604.exe
+C:\Users\user\source\repos\MailProtocol2604\MailProtocol2604\bin\Debug\net8.0\MailProtocol2604.deps.json
+C:\Users\user\source\repos\MailProtocol2604\MailProtocol2604\bin\Debug\net8.0\MailProtocol2604.runtimeconfig.json
+C:\Users\user\source\repos\MailProtocol2604\MailProtocol2604\bin\Debug\net8.0\MailProtocol2604.dll
+C:\Users\user\source\repos\MailProtocol2604\MailProtocol2604\bin\Debug\net8.0\MailProtocol2604.pdb
+C:\Users\user\source\repos\MailProtocol2604\MailProtocol2604\obj\Debug\net8.0\MailProtocol2604.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MailProtocol2604\MailProtocol2604\obj\Debug\net8.0\MailProtocol2604.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MailProtocol2604\MailProtocol2604\obj\Debug\net8.0\MailProtocol2604.AssemblyInfo.cs
+C:\Users\user\source\repos\MailProtocol2604\MailProtocol2604\obj\Debug\net8.0\MailProtocol2604.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MailProtocol2604\MailProtocol2604\obj\Debug\net8.0\MailProtocol2604.dll
+C:\Users\user\source\repos\MailProtocol2604\MailProtocol2604\obj\Debug\net8.0\refint\MailProtocol2604.dll
+C:\Users\user\source\repos\MailProtocol2604\MailProtocol2604\obj\Debug\net8.0\MailProtocol2604.pdb
+C:\Users\user\source\repos\MailProtocol2604\MailProtocol2604\obj\Debug\net8.0\MailProtocol2604.genruntimeconfig.cache
+C:\Users\user\source\repos\MailProtocol2604\MailProtocol2604\obj\Debug\net8.0\ref\MailProtocol2604.dll
