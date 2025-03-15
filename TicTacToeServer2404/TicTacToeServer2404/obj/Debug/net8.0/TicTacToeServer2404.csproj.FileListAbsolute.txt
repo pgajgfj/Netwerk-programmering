@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\TicTacToeServer2404\TicTacToeServer2404\bin\Debug\net8.0\TicTacToeServer2404.exe
+C:\Users\user\source\repos\TicTacToeServer2404\TicTacToeServer2404\bin\Debug\net8.0\TicTacToeServer2404.deps.json
+C:\Users\user\source\repos\TicTacToeServer2404\TicTacToeServer2404\bin\Debug\net8.0\TicTacToeServer2404.runtimeconfig.json
+C:\Users\user\source\repos\TicTacToeServer2404\TicTacToeServer2404\bin\Debug\net8.0\TicTacToeServer2404.dll
+C:\Users\user\source\repos\TicTacToeServer2404\TicTacToeServer2404\bin\Debug\net8.0\TicTacToeServer2404.pdb
+C:\Users\user\source\repos\TicTacToeServer2404\TicTacToeServer2404\obj\Debug\net8.0\TicTacToeServer2404.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TicTacToeServer2404\TicTacToeServer2404\obj\Debug\net8.0\TicTacToeServer2404.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TicTacToeServer2404\TicTacToeServer2404\obj\Debug\net8.0\TicTacToeServer2404.AssemblyInfo.cs
+C:\Users\user\source\repos\TicTacToeServer2404\TicTacToeServer2404\obj\Debug\net8.0\TicTacToeServer2404.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TicTacToeServer2404\TicTacToeServer2404\obj\Debug\net8.0\TicTacToeServer2404.dll
+C:\Users\user\source\repos\TicTacToeServer2404\TicTacToeServer2404\obj\Debug\net8.0\refint\TicTacToeServer2404.dll
+C:\Users\user\source\repos\TicTacToeServer2404\TicTacToeServer2404\obj\Debug\net8.0\TicTacToeServer2404.pdb
+C:\Users\user\source\repos\TicTacToeServer2404\TicTacToeServer2404\obj\Debug\net8.0\TicTacToeServer2404.genruntimeconfig.cache
+C:\Users\user\source\repos\TicTacToeServer2404\TicTacToeServer2404\obj\Debug\net8.0\ref\TicTacToeServer2404.dll
