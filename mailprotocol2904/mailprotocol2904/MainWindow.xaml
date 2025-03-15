@@ -1,0 +1,11 @@
+﻿<Window x:Class="mailprotocol2904.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        Title="Mail Protocol" Height="450" Width="800">
+    <Grid>
+        <xctk:WatermarkTextBox Name="EmailTextBox" Watermark="Enter your email" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="10"/>
+        <xctk:WatermarkTextBox Name="PasswordTextBox" Watermark="Enter your password" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="10,40,0,0"/>
+        <Button Name="LoginButton" Content="Login" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="10,80,0,0" Click="LoginButton_Click"/>
+    </Grid>
+</Window>
